@@ -4,3 +4,4 @@ Buongiorno!
 Moi!
 hi!
 你好
+こんにちは世界！
