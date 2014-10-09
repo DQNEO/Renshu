@@ -8,3 +8,4 @@ test
 feature-001
 こんにちわ
 Greeting!
+Bonan tagon!
