@@ -24,4 +24,5 @@ hello from Tokyo!
 こにゃにゃちわ
 Hello
 hogehoge
+Hello!
 Hello!!!
