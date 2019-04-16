@@ -1,0 +1,16 @@
+   33  vim HelloWorld_20150616.txt
+   34  git status
+   35  git add HelloWorld_20150616.txt
+   36  git commit -m "2019年3月5日(火)のHelloWorldを追記"
+   37  git diff master
+   38  git push Renshu update-test
+   39  git log
+   40  git push origin update-test
+   41  ls
+   42  git branch
+   43  vim HelloWorld_20150616.txt
+   44  git add HelloWorld_20150616.txt
+   45  git commit -m "時間を追記"
+   46  git push origin update-test
+   47  ls
+   48  pwd
